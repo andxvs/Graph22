@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Graph</string>
+    <string name="x_2">x^2</string>
+    <string name="x2">x+2</string>
+    <string name="x3">x^2+2x+1</string>
+    <string name="funcion">Funcion</string>
+    <string name="name">name</string>
+</resources>
